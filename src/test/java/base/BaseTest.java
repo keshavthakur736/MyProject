@@ -11,7 +11,6 @@ public class BaseTest {
     }
     BeforeClass
     public void setup(){
-        System.out.println("hello keshav");
         //Log.info
 
     }
